@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HuldaCZ
+- 👋 Hi, I’m Petr Hulínský
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning TypeScript & React Native
 - 💞️ I’m looking to collaborate on React projects
