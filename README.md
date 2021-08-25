@@ -1,6 +1,6 @@
-👋 Hello!
-👀 I’m Front-End/ Full-Stack Dev
-📫 You can reach me on email phulinsky@gmail.com
+- 👋 Hello!
+- 👀 I’m Front-End/ Full-Stack Dev
+- 📫 You can reach me on email phulinsky@gmail.com
 
 <!---
 HuldaCZ/HuldaCZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
