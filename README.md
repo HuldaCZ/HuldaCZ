@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Petr Hulínský
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning TypeScript & React Native
-- 💞️ I’m looking to collaborate on React projects
-- 📫 You can reach me on email phulinsky@gmail.com
+👋 Hello!
+👀 I’m Front-End/ Full-Stack Dev
+📫 You can reach me on email phulinsky@gmail.com
 
 <!---
 HuldaCZ/HuldaCZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
