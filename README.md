@@ -4,7 +4,7 @@
 - Personal website <a href="https://petrhuli.cz" >petrhulli.cz </a>
 - Gitlab <a href="https://gitlab.com/petr.hulinsky" >petr.hulinsky </a>
 
-<div style={{width: "100%"}} >![](https://komarev.com/ghpvc/?username=HuldaCZ&color=green)</div>
+![](https://komarev.com/ghpvc/?username=HuldaCZ&color=green)
 
 <!---
 HuldaCZ/HuldaCZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
