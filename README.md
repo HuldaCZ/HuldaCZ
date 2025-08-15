@@ -1,7 +1,6 @@
-- 👋 Hello!
 - 👀 I’m Front-End/ Full-Stack Dev
 - 📫 You can reach me on email phulinsky@gmail.com
-- Personal website <a href="https://www.petrhuli.cz" >petrhulli.cz </a>
+- Creator of GPX platform <a href="https://gpx-zone.com" >gpx-zone.com</a>
 - Gitlab <a href="https://gitlab.com/petr.hulinsky" >petr.hulinsky </a>
 
 ![](https://komarev.com/ghpvc/?username=HuldaCZ&color=lightgrey&style=for-the-badge)
